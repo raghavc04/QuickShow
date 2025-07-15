@@ -27,6 +27,8 @@ To enable admin access via Clerk:
 
 role: admin
 
+You can access admin panel: https://raghavquickshow.vercel.app/admin
+
 
 🛠️ Setup Instructions
 1. Clone the Repository
