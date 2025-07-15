@@ -25,10 +25,7 @@ To enable admin access via Clerk:
 2. Navigate to **Users > Metadata**
 3. Under `Private Metadata`, add this:
 
-```json
-{
-  "role": "admin"
-}
+role: admin
 
 
 🛠️ Setup Instructions
