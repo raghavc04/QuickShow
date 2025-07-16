@@ -1,4 +1,4 @@
-# 🎬 QuickShow – Real-Time Movie Booking App
+# 🎬 QuickShow-MERN – Real-Time Movie Booking App
 
 QuickShow is a full-stack real-time movie booking platform where users can explore movies, check showtimes, book tickets, and make secure payments. It features a powerful admin panel that allows adding movies and shows dynamically using TMDB API integration. Built with modern technologies for performance, scalability, and a seamless developer experience.
 
